@@ -37,11 +37,11 @@ cd src
 
 ### Using the script from the command-line
 ```
-py -3.7 <module_code> <directory_where_to_save>
+py -3.7 webscraper.py <module_code> <directory_where_to_save>
 ```
 eg:
 ```
-py -3.7 ca117 ./../../my-exams/ca117/
+py -3.7 webscraper.py ca117 ./../../my-exams/ca117/
 ```
 **The script needs to be run from the src/ directory in order for the geckodriver to be found**
 
@@ -59,11 +59,11 @@ py -3.7 ca117 ./../../my-exams/ca117/
 
 ### Using the script from the command-line
 ```
-py -3.7 <directory_from_which_to_take_pdfs> <page_to_slice_at> <directory_and_file_where_to_save>
+py -3.7 slicer.py <directory_from_which_to_take_pdfs> <page_to_slice_at> <directory_and_file_where_to_save>
 ```
 eg
 ```
-py -3.7 ./../../my-exams/ca117/ 2 ./../../my-exams/ca117/qs3and4.pdf
+py -3.7 slicer.py ./../../my-exams/ca117/ 2 ./../../my-exams/ca117/qs3and4.pdf
 ```
 **Page numbers are zero-based, eg: 0 is page 1, 1 is page 2, 2 is page 3, etc**
 
