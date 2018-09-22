@@ -104,3 +104,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Own
+# geckodriver logs
+*.geckodriver.log
+# temporary directories
+src/tmp/
