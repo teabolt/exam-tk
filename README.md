@@ -83,5 +83,5 @@ slicer_tests.py
 * slicer.py: 'NumberObject is not subscriptable error', 'PdfReadWarning', 'x-ref tables warning'
   * check if the supplied papers are not corrupt, experiment with trying to leave out some of the papers
   * some errors skip some PDF's, some don't have an effect on the final output, some crash the program
-* when Firefox automated browser automatically updataes, it and webscraper.py lose 'connection' to each other
+* when the Firefox automated browser goes through an automatic update, it and webscraper.py lose 'connection' to each other
 * ...
