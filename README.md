@@ -20,8 +20,15 @@ Link to Google Doc resources:
   * https://github.com/mozilla/geckodriver/releases
   * (included as .exe files in ```tools/```)
 
-## Videos
-...
+## Videos (click to view)
+
+### Exam PDF web scraper
+<a href="https://youtu.be/uUXjbeFYm9w" target="_blank"><img src="http://img.youtube.com/vi/uUXjbeFYm9w/0.jpg" alt="Image from video showing the command-line and browser" width="240" height="180" border="10" /></a>
+
+### Exam PDF slicer
+<a href="https://youtu.be/-NrZEAAmlyA" target="_blank"><img src="http://img.youtube.com/vi/-NrZEAAmlyA/0.jpg" alt="Image from video showing the command-line and browser" width="240" height="180" border="10" /></a>
+
+_TO-DO_ Edit the videos
 
 ## Before running the examples
 ```
